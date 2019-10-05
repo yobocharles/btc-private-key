@@ -1,7 +1,7 @@
 {
   "name": "btc-private-key",
   "version": "1.0.1",
-  "description": "Create a BTC private key from any number easily",
+  "description": "Create a BTC private key from any address easily",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
